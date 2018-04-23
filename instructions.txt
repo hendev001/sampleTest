@@ -8,3 +8,4 @@ I-- build a webpage for a valet parking business.
     3. security should be optimize to stop people from stealing information.
     4. the current app skeleton should be simple for a better user experience.
     5. all actions should be done as per need.
+    6. a persistant layer should design and build at a later time.
