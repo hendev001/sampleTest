@@ -1,3 +1,19 @@
+ 
+ January 12, 2018.
+     ---------
+
+Business Requirement Documentation.
+_-------------------------------
+    
+    ---------Author------------
+     --------Henga Samuel---------
+      -----Software Developer------
+
+A- Abstract
+   --------
+
+
+
 
 I-- build a webpage for a valet parking business.
    
@@ -9,3 +25,31 @@ I-- build a webpage for a valet parking business.
     4. the current app skeleton should be simple for a better user experience.
     5. all actions should be done as per need.
     6. a persistant layer should design and build at a later time.
+
+
+
+
+
+
+
+
+II- Tools
+
+
+
+
+
+
+
+
+
+
+III- Project - duration
+  1- task completion
+   a-
+   b-
+   c-
+
+
+
+
