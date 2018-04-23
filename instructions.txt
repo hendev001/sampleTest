@@ -1,0 +1,10 @@
+
+I-- build a webpage for a valet parking business.
+   
+    User Story.
+
+    1. the platform must have a landing page allowing users to navigate throughout the application.
+    2. each request made must be efficient in terms of performance.
+    3. security should be optimize to stop people from stealing information.
+    4. the current app skeleton should be simple for a better user experience.
+    5. all actions should be done as per need.
