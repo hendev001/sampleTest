@@ -36,7 +36,7 @@ I-- build a webpage for a valet parking business.
 II- Tools
 
 1- trello task planner.
-https://trello.com/samuelhenga
+https://trello.com/b/VusAWltS/valet-final
 
 2- git for source code repo.
 https://github.com/hendev001/sampleTest/blob/master/
