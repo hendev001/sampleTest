@@ -1,0 +1,22 @@
+{
+  "name": "valetparking",
+  "version": "1.0.0",
+  "description": "valet parking dev",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hendev001/sampleTest.git"
+  },
+  "keywords": [
+    "dev"
+  ],
+  "author": "Samuel Henga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hendev001/sampleTest/issues"
+  },
+  "homepage": "https://github.com/hendev001/sampleTest#readme"
+}
